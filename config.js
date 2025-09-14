@@ -1,13 +1,12 @@
 
 var config = {
     lines: [
-        "Dear stfu,",
-        "i never knew how much you mean to me when we first started talking . until today,i still love you as much as i did since the very first day we met. ",
-        " every since you came into my life, i felt like i was the happiest. i just want to let you know how much you mean to me and how much i appreciate you.",
-        "you never failed to make me smile. things aren't getting better every since we fought, i just miss you so much. having random break downs, with you on my mind wondering if you're doing fine. im sorry i wasn't what you wanted,",
-        "im sorry i wasn't the best, im sorry i couldn't be good enough for you.i just hope everything will be okay soon, i really miss how we used to talk.🥹", 
-       
+        "Dear Balqis Azizah R,",
+        "From the very first time we talked, I never knew you would mean this much to me. Even now, my feelings for you have only grown stronger each day.",
+        "Ever since you came into my life, I’ve felt a happiness I never knew before. You mean the world to me, and I truly appreciate every moment we share.",
+        "You never fail to make me smile. Even though we are far apart, I think of you all the time—wondering how you are, hoping you’re doing well, and wishing I could be there with you.",
+        "So today, I want to ask you with all my heart: even if we are far away and have never met in person yet, will you be mine? Will you be my love, araa? ❤️", 
     ],
     date:"2022-08-09T20:15:00",
-    names: ["☃︎【 Your Tanmay 】","‎ "]
+    names: ["☃︎【 Your prince anjay 】","‎ "]
 }
